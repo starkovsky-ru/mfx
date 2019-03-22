@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<public:component xmlns:public="urn:HTMLComponent">
+   <script type="text/javascript">
+   //<![CDATA[
+      className += (rowIndex % 2 == 0) ? " oddrows" : " evenrows";
+   //]]>
+   </script>
+</public:component>

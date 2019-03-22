@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<bindings xmlns="http://www.mozilla.org/xbl">
+   <!-- путь к moz-behaviors.xml по умолчанию (необходимо приписывать #behavior) -->
+   <binding id="behavior" extends="moz-behaviors.xml#behavior"/>
+   <!-- для табличной привязки -->
+   <binding id="table" extends="moz-behaviors.xml#table"/>
+   <!-- ссылка на .htc-файл -->
+   <binding id="stripy.htc" extends="#behavior"/>
+</bindings>

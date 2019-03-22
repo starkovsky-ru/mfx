@@ -1,0 +1,46 @@
+@font-face {
+	font-family: Pragmatica; /* Имя шрифта */
+	src: url(../fonts/Pragmatica-SlabserifLight.otf); /* Путь к файлу со шрифтом */
+
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: Pragmatica; /* Имя шрифта */
+	src: url(../fonts/Pragmatica-SlabserifBold.otf); /* Путь к файлу со шрифтом */
+
+	font-weight: 800;
+	font-style: normal;
+}
+@font-face {
+	font-family: Pragmatica; /* Имя шрифта */
+	src: url(../fonts/Pragmatica-SlabserifBook.otf); /* Путь к файлу со шрифтом */
+
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: Pragmatica; /* Имя шрифта */
+	src: url(../fonts/Pragmatica-SlabserifExtraBold.otf); /* Путь к файлу со шрифтом */
+
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face {
+	font-family: Pragmatica; /* Имя шрифта */
+	src: url(../fonts/Pragmatica-SlabserifExtraLight.otf); /* Путь к файлу со шрифтом */
+
+	font-weight: 100;
+	font-style: normal;
+}
+@font-face {
+	font-family: Pragmatica; /* Имя шрифта */
+	src: url(../fonts/Pragmatica-SlabserifMedium.otf); /* Путь к файлу со шрифтом */
+
+	font-weight: 600;
+	font-style: normal;
+}
+
+.Pragmatica {
+	font-family: Pragmatica;
+}
